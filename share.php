@@ -7,7 +7,7 @@
 			$thumb = isset($_GET['thumb']) ? $_GET['thumb'] : '';
 			$width = isset($_GET['width']) ? $_GET['width'] : '590';
 			$height = isset($_GET['height']) ? $_GET['height'] : '300';
-			$url = isset($_GET['url']) ? $_GET['url'] : 'https://codecanyon.net/user/demonisblack';
+			$url = isset($_GET['url']) ? $_GET['url'] : 'https://psycodeliccircus.github.io/hackerchallenge/';
 		?>
     
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
